@@ -1,0 +1,13 @@
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\bin\Debug\netcoreapp3.1\Peremennie 2.exe
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\bin\Debug\netcoreapp3.1\Peremennie 2.deps.json
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\bin\Debug\netcoreapp3.1\Peremennie 2.runtimeconfig.json
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\bin\Debug\netcoreapp3.1\Peremennie 2.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\bin\Debug\netcoreapp3.1\Peremennie 2.dll
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\bin\Debug\netcoreapp3.1\Peremennie 2.pdb
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.AssemblyInfo.cs
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.dll
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.pdb
+C:\Users\sasha\source\repos\Peremennie\Peremennie 2\obj\Debug\netcoreapp3.1\Peremennie 2.genruntimeconfig.cache

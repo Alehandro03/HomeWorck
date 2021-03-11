@@ -1,0 +1,12 @@
+D:\VS\Massiv 1\Massiv 1\Massiv 6\bin\Debug\netcoreapp2.1\Massiv 6.deps.json
+D:\VS\Massiv 1\Massiv 1\Massiv 6\bin\Debug\netcoreapp2.1\Massiv 6.runtimeconfig.json
+D:\VS\Massiv 1\Massiv 1\Massiv 6\bin\Debug\netcoreapp2.1\Massiv 6.runtimeconfig.dev.json
+D:\VS\Massiv 1\Massiv 1\Massiv 6\bin\Debug\netcoreapp2.1\Massiv 6.dll
+D:\VS\Massiv 1\Massiv 1\Massiv 6\bin\Debug\netcoreapp2.1\Massiv 6.pdb
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.AssemblyInfoInputs.cache
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.AssemblyInfo.cs
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.csproj.CoreCompileInputs.cache
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.dll
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.pdb
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.genruntimeconfig.cache
+D:\VS\Massiv 1\Massiv 1\Massiv 6\obj\Debug\netcoreapp2.1\Massiv 6.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\VS\Cikl\Cikl\bin\Debug\netcoreapp3.1\Cikl.exe
+D:\VS\Cikl\Cikl\bin\Debug\netcoreapp3.1\Cikl.deps.json
+D:\VS\Cikl\Cikl\bin\Debug\netcoreapp3.1\Cikl.runtimeconfig.json
+D:\VS\Cikl\Cikl\bin\Debug\netcoreapp3.1\Cikl.runtimeconfig.dev.json
+D:\VS\Cikl\Cikl\bin\Debug\netcoreapp3.1\Cikl.dll
+D:\VS\Cikl\Cikl\bin\Debug\netcoreapp3.1\Cikl.pdb
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.csprojAssemblyReference.cache
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.AssemblyInfoInputs.cache
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.AssemblyInfo.cs
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.csproj.CoreCompileInputs.cache
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.dll
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.pdb
+D:\VS\Cikl\Cikl\obj\Debug\netcoreapp3.1\Cikl.genruntimeconfig.cache

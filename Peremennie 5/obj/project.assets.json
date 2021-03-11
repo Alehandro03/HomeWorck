@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Peremennie/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Peremennie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Peremennie.dll": {}
+        }
+      },
+      "Peremennie 2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Peremennie 2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Peremennie 2.dll": {}
+        }
+      },
+      "Peremennie 3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Peremennie 3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Peremennie 3.dll": {}
+        }
+      },
+      "Peremennie 4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Peremennie 4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Peremennie 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Peremennie/1.0.0": {
+      "type": "project",
+      "path": "../Peremennie/Peremennie.csproj",
+      "msbuildProject": "../Peremennie/Peremennie.csproj"
+    },
+    "Peremennie 2/1.0.0": {
+      "type": "project",
+      "path": "../Peremennie 2/Peremennie 2.csproj",
+      "msbuildProject": "../Peremennie 2/Peremennie 2.csproj"
+    },
+    "Peremennie 3/1.0.0": {
+      "type": "project",
+      "path": "../Peremennie 3/Peremennie 3.csproj",
+      "msbuildProject": "../Peremennie 3/Peremennie 3.csproj"
+    },
+    "Peremennie 4/1.0.0": {
+      "type": "project",
+      "path": "../Peremennie 4/Peremennie 4.csproj",
+      "msbuildProject": "../Peremennie 4/Peremennie 4.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Peremennie 2 >= 1.0.0",
+      "Peremennie 3 >= 1.0.0",
+      "Peremennie 4 >= 1.0.0",
+      "Peremennie >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sasha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\VS\\Peremennie\\Peremennie 5\\Peremennie 5.csproj",
+      "projectName": "Peremennie 5",
+      "projectPath": "D:\\VS\\Peremennie\\Peremennie 5\\Peremennie 5.csproj",
+      "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
+      "outputPath": "D:\\VS\\Peremennie\\Peremennie 5\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\VS\\Peremennie\\Peremennie 2\\Peremennie 2.csproj": {
+              "projectPath": "D:\\VS\\Peremennie\\Peremennie 2\\Peremennie 2.csproj"
+            },
+            "D:\\VS\\Peremennie\\Peremennie 3\\Peremennie 3.csproj": {
+              "projectPath": "D:\\VS\\Peremennie\\Peremennie 3\\Peremennie 3.csproj"
+            },
+            "D:\\VS\\Peremennie\\Peremennie 4\\Peremennie 4.csproj": {
+              "projectPath": "D:\\VS\\Peremennie\\Peremennie 4\\Peremennie 4.csproj"
+            },
+            "D:\\VS\\Peremennie\\Peremennie\\Peremennie.csproj": {
+              "projectPath": "D:\\VS\\Peremennie\\Peremennie\\Peremennie.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
