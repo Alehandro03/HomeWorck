@@ -1,0 +1,19 @@
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.csprojAssemblyReference.cache
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.AssemblyInfoInputs.cache
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.AssemblyInfo.cs
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.csproj.CoreCompileInputs.cache
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\bin\Debug\netcoreapp3.1\Vetvlenia 1.exe
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\bin\Debug\netcoreapp3.1\Vetvlenia 1.deps.json
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\bin\Debug\netcoreapp3.1\Vetvlenia 1.runtimeconfig.json
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\bin\Debug\netcoreapp3.1\Vetvlenia 1.runtimeconfig.dev.json
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\bin\Debug\netcoreapp3.1\Vetvlenia 1.dll
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\bin\Debug\netcoreapp3.1\Vetvlenia 1.pdb
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.dll
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.pdb
+D:\Game\Program\Vetvlenia 1\Vetvlenia 1\obj\Debug\netcoreapp3.1\Vetvlenia 1.genruntimeconfig.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\obj\Debug\netcoreapp3.1\Vetvlenia 1.csprojAssemblyReference.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\obj\Debug\netcoreapp3.1\Vetvlenia 1.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\obj\Debug\netcoreapp3.1\Vetvlenia 1.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\Vetvlenia\obj\Debug\netcoreapp3.1\Vetvlenia 1.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\obj\Debug\netcoreapp3.1\Vetvlenia 1.dll
+D:\VS\HomeWork\HomeWork\Vetvlenia\obj\Debug\netcoreapp3.1\Vetvlenia 1.pdb

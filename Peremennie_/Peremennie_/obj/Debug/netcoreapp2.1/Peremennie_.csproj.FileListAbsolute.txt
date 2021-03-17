@@ -1,0 +1,12 @@
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\bin\Debug\netcoreapp2.1\Peremennie_.deps.json
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\bin\Debug\netcoreapp2.1\Peremennie_.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\bin\Debug\netcoreapp2.1\Peremennie_.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\bin\Debug\netcoreapp2.1\Peremennie_.dll
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\bin\Debug\netcoreapp2.1\Peremennie_.pdb
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.csprojAssemblyReference.cache
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.dll
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.pdb
+D:\VS\HomeWork\HomeWork\Peremennie_\Peremennie_\obj\Debug\netcoreapp2.1\Peremennie_.genruntimeconfig.cache
