@@ -1,0 +1,9 @@
+D:\VS\HomeWork\HomeWork\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+D:\VS\HomeWork\HomeWork\List\List\bin\Debug\netcoreapp3.1\List.dll
+D:\VS\HomeWork\HomeWork\List\List\bin\Debug\netcoreapp3.1\List.pdb
+D:\VS\HomeWork\HomeWork\List\List\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache
+D:\VS\HomeWork\HomeWork\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\List\List\obj\Debug\netcoreapp3.1\List.dll
+D:\VS\HomeWork\HomeWork\List\List\obj\Debug\netcoreapp3.1\List.pdb
