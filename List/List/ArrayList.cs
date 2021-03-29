@@ -120,6 +120,11 @@ namespace List
 
         public void AddByIndex(int value, int index)
         {
+            if (index > Length)
+            {
+                throw new IndexOutOfRangeException();
+            }
+
             Length++;
 
             if (Length == _array.Length)

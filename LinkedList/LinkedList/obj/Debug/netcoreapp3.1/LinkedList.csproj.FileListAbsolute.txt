@@ -1,0 +1,9 @@
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+D:\VS\HomeWork\HomeWork\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
